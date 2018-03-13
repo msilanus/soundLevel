@@ -1,0 +1,1 @@
+pyuic4 -x soundmeterGUI.ui -o soundmeterGUI.py
